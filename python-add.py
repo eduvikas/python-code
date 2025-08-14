@@ -1,4 +1,4 @@
-num1 = 10
-num2 = 25
+num1 = 100
+num2 = 250
 sum_result = num1 + num2
 print(f"The sum of {num1} and {num2} is: {sum_result}")
